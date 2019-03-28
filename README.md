@@ -2,6 +2,7 @@
 
 初めてサーバにログインしたプレイヤーを通知します。
 
+- [Release](https://github.com/book000/FirstPlayerNotify/releases)
 - [初期設定 (Setup)](https://github.com/book000/FirstPlayerNotify/wiki/Setup)
 - [使い方 (Usage)](https://github.com/book000/FirstPlayerNotify/wiki/Usage)
 
