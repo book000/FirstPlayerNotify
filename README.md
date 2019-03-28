@@ -7,7 +7,7 @@
 
 ## ライセンス
 
-当アプリケーションには[MIT License](https://github.com/book000/MediaConverter/blob/master/LICENSE)を適用します。
+当アプリケーションには[MIT License](https://github.com/book000/FirstPlayerNotify/blob/master/LICENSE)を適用します。
 
 ## 免責事項
 
