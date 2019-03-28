@@ -1,5 +1,13 @@
 # FirstPlayerNotify
 
+[![Build Status](https://travis-ci.org/book000/FirstPlayerNotify.svg?branch=master)](https://travis-ci.org/book000/FirstPlayerNotify)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7dc6308bf5634aa7a56447cd1c852278)](https://www.codacy.com/app/book000/FirstPlayerNotify?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=book000/FirstPlayerNotify&amp;utm_campaign=Badge_Grade)
+![License](https://img.shields.io/github/license/book000/FirstPlayerNotify.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/book000/FirstPlayerNotify/total.svg)
+[![GitHub release](https://img.shields.io/github/release/book000/FirstPlayerNotify.svg)](https://github.com/book000/FirstPlayerNotify/releases)
+[![GitHub Release Date](https://img.shields.io/github/release-date/book000/FirstPlayerNotify.svg)](https://github.com/book000/FirstPlayerNotify/releases)
+[![Twitter Follow](https://img.shields.io/twitter/follow/book000.svg?style=social)](https://twitter.com/book000)
+
 初めてサーバにログインしたプレイヤーを通知します。
 
 - [初期設定 (Setup)](https://github.com/book000/FirstPlayerNotify/wiki/Setup)
