@@ -1,0 +1,14 @@
+name: FirstPlayerNotify
+main: com.github.book000.FirstPlayerNotify.FirstPlayerNotify
+version: ${project.version}
+description: 初めてサーバにログインしたプレイヤーを通知します。
+database: true
+author: mine_book000
+commands:
+  fpn:
+    description: FirstPlayerNotifyの設定をします。
+    usage: |-
+      /fpn: ヘルプを表示します。
+      /fpn help: ヘルプを表示します。
+    permission: firstplayernotify.fpn
+    permission-message: You do not have permission to perform this command.
